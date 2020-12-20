@@ -10,8 +10,8 @@
 
 
 # The contract
-####Between [company name]
-####And [customer name]
+#### Between [company name]
+#### And [customer name]
 
 ## Summary:
 I will always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
