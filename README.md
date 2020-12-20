@@ -14,7 +14,7 @@
 #### And [customer name]
 
 ## Summary:
-I will always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
+I will always do my best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
 
 In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future.
 
@@ -33,7 +33,7 @@ For the estimated total price of [total] as outlined in our previous corresponde
 ## Design
 I create designs that adapt to the capabilities of many devices and screen sizes. I create them iteratively using HTML and CSS, and it would be a poor use of my time to mock up every template as a static visual. I may use visuals to indicate a creative direction (color, texture and typography).
 
-You will have plenty of opportunities to review our work and provide feedback. I will share a Github repository and development site with you and we will have regular contact via phone, email, or any video chat provider we agree to, such as Zoom or Skype.
+You will have plenty of opportunities to review my work and provide feedback. I will share a Github repository and development site with you and we will have regular contact via phone, email, or any video chat provider we agree to, such as Zoom or Skype.
 
 If — at any stage — you change your mind about what you want delivered or aren’t happy with the direction my work is taking, you will pay me in full for the time I've spent working until that point and may terminate this contract.
 
