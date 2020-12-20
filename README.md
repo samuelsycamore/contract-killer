@@ -1,6 +1,6 @@
 # California Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract] (https://stuffandnonsense.co.uk/projects/contract-killer/).
+### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
 #### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
 
