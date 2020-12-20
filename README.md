@@ -1,24 +1,26 @@
 # California Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting the original killer contract.
+### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract] (https://stuffandnonsense.co.uk/projects/contract-killer/).
 
-#### That said, I don't love some of the more cheeky British humor baked in, and there are subtle elements of the phrasing and grammar (plus spelling) that I would never use as an American.
+#### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
 
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included language to reflect the additional services that I offer. Your mileage may vary!
+#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included specific text to reflect the additional services that I offer. Your mileage may vary!
+
+##### Shout-out to all the homies from #100devs! I hope you find this helpful!
 
 
 # The contract
-**Between [company name]**
-**And [customer name]**
+####Between [company name]
+####And [customer name]
 
 ## Summary:
 I will always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
 
-In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future.
 
 In short;
 
-You ([customer name]), located at [customer address] (“You”) are hiring us ([company name]) (“Me”) to:
+You ([customer name]), located at [customer address] (“You”) are hiring me ([company name]) (“Me”) to:
 
 [Design and develop a web site]
 For the estimated total price of [total] as outlined in our previous correspondence.
