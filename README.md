@@ -1,11 +1,15 @@
 # California Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting the original killer contract. That said, I don't love some of the more cheeky British humor, and there are subtle elements of the phrasing and grammar (plus spelling) that I would never use as an American. This edit reflects the kind of language that feels more appropriate to me in the Bay Area, California. I have also included language to reflect the additional services that I offer. Your mileage may vary!
+### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting the original killer contract.
+
+#### That said, I don't love some of the more cheeky British humor baked in, and there are subtle elements of the phrasing and grammar (plus spelling) that I would never use as an American.
+
+#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included language to reflect the additional services that I offer. Your mileage may vary!
 
 
-## The contract
-Between [company name]
-And [customer name]
+# The contract
+**Between [company name]**
+**And [customer name]**
 
 ## Summary:
 I will always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
