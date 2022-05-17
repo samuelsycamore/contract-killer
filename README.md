@@ -1,12 +1,14 @@
 # California Contract Killer
 
-### I really appreciate the work of Andy Clarke and Stuff & Nonsense Ltd. for crafting [the original killer contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
+This is a template contract for a freelance web developer, based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
-#### That said, I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing and grammar (plus spelling) that I would never use as an American.
+The original version is great, but I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing, grammar, and spelling that I would never use as an American.
 
-#### This edit reflects the kind of language that feels more appropriate to me as someone who resides in the Bay Area, California. I have also included specific text to reflect the additional services that I offer. Your mileage may vary!
+This edit reflects the kind of language that feels more appropriate to me. Your mileage may vary!
 
-##### Shout-out to all the homies from #100devs! I hope you find this helpful!
+Hello to everyone from #100devs! I hope you find this contract useful!
+
+If you land a client and get paid, I would highly encourage you to [pay the original creators](https://stuffandnonsense.co.uk/projects/contract-killer/) for their work.
 
 
 # The contract
@@ -112,9 +114,11 @@ Although the language is simple, the intentions are serious and this contract is
 
 ## The dotted line
 Signed by [company name]
+
 ……………………………………………………
 
 Signed by [customer name]
+
 ……………………………………………………
 
 Date [date]
