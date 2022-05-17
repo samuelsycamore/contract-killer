@@ -1,6 +1,6 @@
 # California Contract Killer
 
-This is a "plain language" template contract for a freelance web developer, based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
+This is a "plain language" contract template for a freelance web developer, based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
 The purpose is to provide you and your client with a simple contract that clearly outlines the terms of your deal using terminology that doesn't require a law degree to understand.
 
@@ -9,6 +9,7 @@ The original version is great, but I don't love some of the more cheeky British 
 This edit reflects the kind of language that feels more appropriate to me. Your mileage may vary!
 
 > Please understand that I am not a lawyer and none of my text has been reviewed by a law professional.
+>
 > If you are worried about legal liability, you should talk to a lawyer before entering into any contract.
 
 Hello to everyone from #100devs! I hope you find this contract useful!
